@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ashleanichols/calendso is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Python](https://www.python.org) – Languages
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
@@ -21,11 +22,13 @@ ashleanichols/calendso is built on the following main stack:
 - [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ashleanichols/calendso is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
@@ -45,14 +48,15 @@ ashleanichols/calendso is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg' alt='Prisma'/> [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ashleanichols/calendso](https://github.com/ashleanichols/calendso)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|48<br/>Tools used|11/09/23 <br/>Report generated|
+|50<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -266,9 +270,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (25)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (27)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (25)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (27)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -287,6 +291,8 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.2.0|07/15/21|Femi Odugbesan |MIT|N/A|
 |[googleapis](https://www.npmjs.com/googleapis)|v67.1.1|03/22/21|Bailey Pumfleet |Apache-2.0|N/A|
 |[handlebars](https://www.npmjs.com/handlebars)|v4.7.7|06/23/21|femyeda |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v6.0.0|06/21/21|Femi Odugbesan |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v11.0.0|06/21/21|Femi Odugbesan |MIT|N/A|
 |[lodash.debounce](https://www.npmjs.com/lodash.debounce)|v4.0.8|07/15/21|Femi Odugbesan |MIT|N/A|
 |[lodash.merge](https://www.npmjs.com/lodash.merge)|v4.6.2|07/15/21|Femi Odugbesan |MIT|N/A|
 |[lodash.throttle](https://www.npmjs.com/lodash.throttle)|v4.1.1|07/15/21|Femi Odugbesan |MIT|N/A|
@@ -301,4 +307,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
